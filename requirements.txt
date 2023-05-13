@@ -1,0 +1,9 @@
+pandas
+surprise
+numpy
+termcolor
+tensorflow
+tqdm
+sklearn
+nltk
+langdetect
